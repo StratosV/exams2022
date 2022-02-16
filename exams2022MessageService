@@ -1,0 +1,16 @@
+@Test
+import static org.mockito.Mockito.*;
+public class MessageService {
+              string ip, message;
+              
+                    public boolean sendMessage() {
+                     boolean sendMessage(String ip, String message);
+                    sendMessage SendMessagemock = mock(sendMessage.class);
+                    when (SendMessagemock.sendMessage(message)<>NULL).thenReturn("TRUE");
+                    when (SendMessagemock.sendMessage(message)=NULL).thenReturn("FALSE");
+                     
+                     
+              }          
+}     
+                       
+     
